@@ -10,7 +10,5 @@
 </h4>
 
 <h2> Skills : </h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
-<img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
 
