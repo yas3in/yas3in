@@ -11,5 +11,5 @@
 </h4>
 
 <h2 style="margin-top: 10px;"> Skills : </h2>
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode, css, html" />
 
