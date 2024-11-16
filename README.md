@@ -1,5 +1,5 @@
 <h2> Hi There, I AM Yasin🙋🏻‍♂️</h2>
-<h3><a href="https://peyvand-tejarat-jonoob.ir" style="test-decoration:none; color:red:" target=_blank > peyvand-tejarat-jonoob.ir </a> </h3>
+<h3><a href="https://peyvand-tejarat-jonoob.ir" style="test-decoration:none; color:red;" target=_blank > peyvand-tejarat-jonoob.ir </a> </h3>
 <h2>My Social: </h2> 
 
 <a href='https://t.me/yas3in_official'>
