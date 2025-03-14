@@ -1,4 +1,4 @@
-<h2> Hi There, I AM Yasin🙋🏻‍♂️</h2>
+![image](https://github.com/user-attachments/assets/df0671c4-41e6-44da-91bf-99d5e277ed0e)<h2> Hi There, I AM Yasin🙋🏻‍♂️</h2>
 <h3><a href="https://peyvand-tejarat-jonoob.ir" style="test-decoration:none; color:red;" target=_blank > peyvand-tejarat-jonoob.ir </a> </h3>
 <h3><a href="https://peyvand-tejarat-jonoob.ir" style="test-decoration:none; color:red;" target=_blank > kharjban.ir </a> </h3>
 <h2>My Social: </h2> 
@@ -12,4 +12,5 @@
 
 <h2 style="margin-top: 10px;"> Skills : </h2>
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,css,html,django" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yas3in)]
+## MY Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas3in&hide_progress=true" />
