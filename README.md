@@ -6,10 +6,6 @@
 <a href='https://t.me/yas3in_official'>
   <img align='left' style='height:40px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" />
 </a>
-<a href='https://www.instagram.com/yas3in_official/'>
-  <img align='left' style='height:40px;' src="download.png" />
-</a>
-
 </br>
 
 </h4>
