@@ -12,4 +12,4 @@
 
 <h2 style="margin-top: 10px;"> Skills : </h2>
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,css,html,django" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yas3in)](https://github.com/anuraghazra/github-readme-stats)
