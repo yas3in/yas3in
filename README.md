@@ -12,5 +12,6 @@
 
 <h2 style="margin-top: 10px;"> Skills : </h2>
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,css,html,django" />
-## MY Activity
+
+<h2>My Activity: </h2> 
 <img src="https://github-readme-stats.vercel.app/api?username=yas3in&show_icons=true&theme=dark" />
